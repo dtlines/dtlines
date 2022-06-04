@@ -1,8 +1,5 @@
 ### Hi there, I'm [dtlines][website] 👋
 ## blockchain / blog webdesign 
-[![contributions](https://github.com/dtrieb123/neuroshack)]
-[![site](https://neuroshack.io)]
-
 ### Connect with me:
 
 I am always looking for new and challenging projects, so don't hesitate to get in contact!
