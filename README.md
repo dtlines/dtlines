@@ -1,7 +1,8 @@
-## Hi there, I'm [dtlines][website] 👋
-## blockchain / blog webdesign 
+## Hi there, I'm [dtlines][website] [<img width="25px" height="25px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f919.png">][github]
+# 
+## minimalBlog / showcaseWebpages
 
-Let me know any site suggestions or tips.
+Comment or commit any site issues, suggestions or tips. Thanks for visiting =)
 [<img align="left" width="50px" height="50px" src="https://raw.githubusercontent.com/dtrieb123/neuroshack/main/media/logo.gif" >][website]
 <br/>
 <a href="https://neuroshack.io">Neuroshack.io</a>
