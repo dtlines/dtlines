@@ -1,7 +1,7 @@
 ### Hi there, I'm [dtlines][website] 👋
 ## blockchain / blog webdesign 
-[![Website](""](https://neuroshack.io)
-[![Twitter Follow]("")]([https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprim4t&screen_name=prim4t](https://github.com/dtrieb123/neuroshack))
+[![Website](https://neuroshack.io)
+[![Twitter Follow](https://github.com/dtrieb123/neuroshack)
 
 
 ### Connect with me:
