@@ -1,7 +1,7 @@
 ### Hi there, I'm [dtlines][website] 👋
 ## blockchain / blog webdesign 
-[![contributions](https://github.com/dtrieb123/neuroshack)
-[![site](https://neuroshack.io)
+[![contributions](https://github.com/dtrieb123/neuroshack)]
+[![site](https://neuroshack.io)]
 
 ### Connect with me:
 
