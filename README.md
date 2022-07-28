@@ -1,5 +1,4 @@
-## Hi there!!
-# 
+Hi there!!!
 ## minimalBlog / showcaseWebpages
 Comment or commit to any site issues or bugs, suggestions or tips. </div>Thanks for visiting =)
 <br/>
