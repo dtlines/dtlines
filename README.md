@@ -1,4 +1,4 @@
-## Hi there, I'm [dtlines][website] [<img width="25px" height="25px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f919.png">][github]
+## Hi there!!
 # 
 ## minimalBlog / showcaseWebpages
 Comment or commit to any site issues or bugs, suggestions or tips. </div>Thanks for visiting =)
