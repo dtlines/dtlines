@@ -1,4 +1,5 @@
 Hi there!!!
+I like webdesign and artistic stuff.
 ## minimalBlog / showcaseWebpages
 Comment or commit to any site issues or bugs, suggestions or tips. </div>Thanks for visiting =)
 <br/>
